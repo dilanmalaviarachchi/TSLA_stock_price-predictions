@@ -1,2 +1,2 @@
-# TSLA_stock_price-predictions
+# TSLA stock price predictions
 tesla stock price prediction
